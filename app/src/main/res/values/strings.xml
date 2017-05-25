@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Test Project</string>
+    <string name="please_wait">Loading... Please wait.</string>
+    <string name="parsing_error">Sorry. There are some problems to load data.</string>
+    <string name="server_error">Waring. Please check for servers status.</string>
+</resources>
